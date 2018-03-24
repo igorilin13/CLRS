@@ -1,7 +1,7 @@
-# CLRS-In-Java
+# CLRS In Java
 Java implementations from CLRS "Introduction to Algorithms", 3rd edition.
 
-## Built With
+## Created With
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
